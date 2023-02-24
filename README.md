@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gr00tuzr06
-- 👀 I’m interested in ...software dev
-- 🌱 I’m currently learning ...python
+- 👀 I’m interested in ...threat analysis
+- 🌱 I’m currently learning ...SIEM
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...l.taylor7430@gmail.com
 
