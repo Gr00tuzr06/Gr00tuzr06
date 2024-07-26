@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gr00tuzr06
-- 👀 I’m interested in ...threat analysis
-- 🌱 I’m currently learning ...SIEM
+- 👀 I’m interested in ...cloud security
+- 🌱 I’m currently learning ...AWS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...l.taylor7430@gmail.com
 
